@@ -15,4 +15,4 @@ List any resources used here, or simply put `N/A` if not applicable.
 | Student Name | CCID      |
 | ------------ | --------- |
 | `N/A`    | `N/A` |
-| `<N/A>` | `N/A`  |
+| `N/A` | `N/A`  |
